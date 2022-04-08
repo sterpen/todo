@@ -1,0 +1,23 @@
+{
+  "name": "expo-sqlite-example",
+  "version": "1.0.0",
+  "description": "sqlite example in expo",
+  "author": "expo",
+  "keywords": [
+    "expo",
+    "react-native",
+    "sqlite"
+  ],
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "expo": "^44.0.0",
+    "expo-constants": "~13.0.1",
+    "expo-sqlite": "~10.1.0",
+    "react": "17.0.1",
+    "react-native": "0.64.3"
+  },
+  "devDependencies": {
+    "babel-preset-expo": "9.0.2"
+  }
+}
